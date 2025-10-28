@@ -37,10 +37,10 @@
 <div class="card">
 <h3>Contact & Order</h3>
 <ul class="contact-list">
-<li><strong>Phone:</strong> 01-5914639</li>
+<li><strong>Phone:</strong> 01-5914639/9851346924</li>
 <li><strong>Mobile / WhatsApp:</strong> 9851346924</li>
 <li><strong>Address:</strong> Greenland Chowk, Tokha Road</li>
-<li><strong>Hours:</strong> 11:00 AM - 11:00 PM</li>
+<li><strong>Hours:</strong> 8:00 AM - 11:00 PM</li>
 </ul>
 <div style="margin-top:12px;display:flex;gap:8px">
 <a class="btn" href="https://wa.me/9851346924?text=Hi%20Atithi%20-%20I%20want%20to%20order" target="_blank">Order on WhatsApp</a>
