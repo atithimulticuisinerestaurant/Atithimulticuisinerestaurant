@@ -1,4 +1,10 @@
-1) Open this file in any browser to preview the website locally.
+<!--
+</div>
+</div>
+
+
+<!-- FRIED CHICKEN quick sample -->
+<div class="menu-category">
 <h3>FRIED CHICKEN</h3>
 <div class="item">
 <div class="thumb"><img src="https://via.placeholder.com/200x150?text=Fried+Chicken" alt="Fried Chicken"></div>
