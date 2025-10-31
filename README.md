@@ -1,4 +1,3 @@
-<!--
 Atithi Multi Cuisine Restaurant - Full Menu Classic Single-file HTML/CSS website
 Instructions:
 1) Open this file in any browser to preview the website locally.
